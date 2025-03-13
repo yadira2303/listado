@@ -5,7 +5,7 @@ HAEC2340	12	Abceso	España	B2	O4:H5
 HBLEC2450	410	Lavado_broncoalveolar	Jordania	C	O8:H9
 HEAEC1448	131	Aspirado_endotraqueal	Egipto	B2	O25:H4
 HEAEC1785	58	Aspirado_endotraqueal	Georgia	B1	O8:H25
-HGEC2211	167	Gastrointestinal	Egipto	EC_control_fail	O9:H9
+HGEC2211	167	Gastrointestinal	Egipto	EC	O9:H9
 HOEC0999	1284	Orina	Turquia	A	-:H21
 HOEC1012	1284	Orina	Turquia	A	-:H21
 HOEC1380	131	Orina	Lebanon	B2	O16:H5
